@@ -1,6 +1,6 @@
 # sudoku-solver
 
-A fun into to py project of training a python script to solve sudoku puzzles without guessing
+A fun into to py project of training a python script to solve sudoku puzzles without guessing.  You can add logic onto it own your own.  If you get stuck, take a look at some more advanced techniques [here](https://www.sudokuoftheday.com/techniques/) that you could add.
 
 The sudoku-solver.py script as-is:
 
